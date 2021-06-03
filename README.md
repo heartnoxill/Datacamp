@@ -10,3 +10,4 @@ Heart's Datacamp code and notes, completed
 - Preprocessing for Machine Learning in Python
 - Supervised Learning with scikit-learn
 - Unsupervised Learning in Python
+- Machine Learning for Time Series Data in Python
