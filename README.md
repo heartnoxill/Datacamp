@@ -12,3 +12,4 @@ Heart's Datacamp code and notes, completed
 - Unsupervised Learning in Python
 - Machine Learning for Time Series Data in Python
 - Feature Engineering for Machine Learning in Python
+- Model Validation in Python
