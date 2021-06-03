@@ -11,3 +11,4 @@ Heart's Datacamp code and notes, completed
 - Supervised Learning with scikit-learn
 - Unsupervised Learning in Python
 - Machine Learning for Time Series Data in Python
+- Feature Engineering for Machine Learning in Python
