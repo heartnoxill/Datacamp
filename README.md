@@ -1,4 +1,5 @@
 # Datacamp
+## Machine Learning Scientist with Python Path
 ❤💛💚💙🅰✅♻🔅💯
 Heart's Datacamp code and notes, completed
 
@@ -14,3 +15,4 @@ Heart's Datacamp code and notes, completed
 - Feature Engineering for Machine Learning in Python
 - Model Validation in Python
 - Introduction to Natural Language Processing in Python
+- Feature Engineering for NLP in Python
