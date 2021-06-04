@@ -16,3 +16,4 @@ Heart's Datacamp code and notes, completed
 - Model Validation in Python
 - Introduction to Natural Language Processing in Python
 - Feature Engineering for NLP in Python
+- Introduction to TensorFlow in Python
