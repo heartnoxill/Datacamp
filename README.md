@@ -18,3 +18,4 @@ Heart's Datacamp code and notes, completed
 - Feature Engineering for NLP in Python
 - Introduction to TensorFlow in Python
 - Introduction to Deep Learning in Python
+- Introduction to Deep Learning with Keras
