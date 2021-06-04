@@ -17,3 +17,4 @@ Heart's Datacamp code and notes, completed
 - Introduction to Natural Language Processing in Python
 - Feature Engineering for NLP in Python
 - Introduction to TensorFlow in Python
+- Introduction to Deep Learning in Python
