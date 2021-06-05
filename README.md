@@ -19,3 +19,4 @@ Heart's Datacamp code and notes, completed
 - Introduction to TensorFlow in Python
 - Introduction to Deep Learning in Python
 - Introduction to Deep Learning with Keras
+- Advanced Deep Learning with Keras
