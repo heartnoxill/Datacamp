@@ -25,3 +25,6 @@ Heart's Datacamp code and notes, completed
 - Hyperparameter Tuning in Python
 - Introduction to PySpark
 - Machine Learning with PySpark
+- Winning a Kaggle Competition in Python
+
+--> Machine Learning Scientist with Python
