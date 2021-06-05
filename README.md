@@ -21,3 +21,4 @@ Heart's Datacamp code and notes, completed
 - Introduction to Deep Learning with Keras
 - Advanced Deep Learning with Keras
 - Image Processing in Python
+- Image Processing with Keras in Python
