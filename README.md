@@ -22,3 +22,4 @@ Heart's Datacamp code and notes, completed
 - Advanced Deep Learning with Keras
 - Image Processing in Python
 - Image Processing with Keras in Python
+- Hyperparameter Tuning in Python
