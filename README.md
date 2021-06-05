@@ -24,3 +24,4 @@ Heart's Datacamp code and notes, completed
 - Image Processing with Keras in Python
 - Hyperparameter Tuning in Python
 - Introduction to PySpark
+- Machine Learning with PySpark
