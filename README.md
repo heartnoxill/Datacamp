@@ -1,7 +1,9 @@
-# Datacamp
-## Machine Learning Scientist with Python Path
+# Heart's Datacamp Repository
+
 ❤💛💚💙🅰✅♻🔅💯
 Heart's Datacamp code and notes, completed
+
+## Machine Learning Scientist with Python Path
 
 - Cluster Analysis in Python
 - Dimensionality Reduction in Python
@@ -27,4 +29,6 @@ Heart's Datacamp code and notes, completed
 - Machine Learning with PySpark
 - Winning a Kaggle Competition in Python
 
---> Machine Learning Scientist with Python
+## Data Engineering with Python
+
+- Data Engineering for Everyone
