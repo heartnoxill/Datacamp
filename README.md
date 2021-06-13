@@ -29,6 +29,11 @@ Heart's Datacamp code and notes, completed
 - Machine Learning with PySpark
 - Winning a Kaggle Competition in Python
 
-## Data Engineering with Python
+## Data Engineering with Python Path
 
 - Data Engineering for Everyone
+- Introduction to Scala
+
+## Data Scientist with Python Path
+
+- Introduction to Data Visualization with Matplotlib
