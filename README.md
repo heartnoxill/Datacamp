@@ -37,3 +37,4 @@ Heart's Datacamp code and notes, completed
 ## Data Scientist with Python Path
 
 - Introduction to Data Visualization with Matplotlib
+- Introduction to Data Visualization with Seaborn
