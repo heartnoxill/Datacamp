@@ -38,3 +38,4 @@ Heart's Datacamp code and notes, completed
 
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
+- Intermediate Data Visualization with Seaborn
