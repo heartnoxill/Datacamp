@@ -36,6 +36,9 @@ Heart's Datacamp code and notes, completed
 
 ## Data Scientist with Python Path
 
+Some courses are skipped because I passed the assessment quizzes.
+
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
 - Intermediate Data Visualization with Seaborn
+- Intermediate Importing Data in Python
