@@ -43,3 +43,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Intermediate Data Visualization with Seaborn
 - Intermediate Importing Data in Python
 - Cleaning Data in Python
+- Exploratory Data Analysis in Python
