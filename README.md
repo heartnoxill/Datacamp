@@ -45,3 +45,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Cleaning Data in Python
 - Exploratory Data Analysis in Python
 - Analyzing Police Activity with pandas
+- Statistical Thinking in Python (Part 1)
