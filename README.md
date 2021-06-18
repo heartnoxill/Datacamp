@@ -46,3 +46,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Exploratory Data Analysis in Python
 - Analyzing Police Activity with pandas
 - Statistical Thinking in Python (Part 1)
+- Statistical Thinking in Python (Part 2)
