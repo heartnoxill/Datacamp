@@ -47,3 +47,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Analyzing Police Activity with pandas
 - Statistical Thinking in Python (Part 1)
 - Statistical Thinking in Python (Part 2)
+- Case Study: School Budgeting with Machine Learning in Python
