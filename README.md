@@ -29,11 +29,6 @@ Heart's Datacamp code and notes, completed
 - Machine Learning with PySpark
 - Winning a Kaggle Competition in Python
 
-## Data Engineering with Python Path
-
-- Data Engineering for Everyone
-- Introduction to Scala
-
 ## Data Scientist with Python Path
 
 Some courses are skipped because I passed the assessment quizzes.
@@ -48,3 +43,9 @@ Some courses are skipped because I passed the assessment quizzes.
 - Statistical Thinking in Python (Part 1)
 - Statistical Thinking in Python (Part 2)
 - Case Study: School Budgeting with Machine Learning in Python
+
+## Data Engineering with Python Path
+
+- Data Engineering for Everyone
+- Introduction to Scala
+- Introduction to Data Engineering
