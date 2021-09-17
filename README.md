@@ -51,3 +51,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to Data Engineering
 - Streamlined Data Ingestion with pandas
 - Introduction to Shell
+- Data Processing in Shell
