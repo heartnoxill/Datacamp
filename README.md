@@ -49,3 +49,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Data Engineering for Everyone
 - Introduction to Scala
 - Introduction to Data Engineering
+- Streamlined Data Ingestion with pandas
