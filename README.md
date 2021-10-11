@@ -53,3 +53,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to Shell
 - Data Processing in Shell
 - Introduction to Bash Scripting
+- Introduction to Airflow in Python
