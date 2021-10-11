@@ -52,3 +52,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Streamlined Data Ingestion with pandas
 - Introduction to Shell
 - Data Processing in Shell
+- Introduction to Bash Scripting
