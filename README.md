@@ -54,3 +54,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Data Processing in Shell
 - Introduction to Bash Scripting
 - Introduction to Airflow in Python
+- Building Data Engineering Pipelines in Python
