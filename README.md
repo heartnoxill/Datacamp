@@ -55,3 +55,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to Bash Scripting
 - Introduction to Airflow in Python
 - Building Data Engineering Pipelines in Python
+- Introduction to AWS Boto in Python
