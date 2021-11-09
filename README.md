@@ -57,3 +57,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Building Data Engineering Pipelines in Python
 - Introduction to AWS Boto in Python
 - Introduction to Relational Databases in SQL
+- Database Design
