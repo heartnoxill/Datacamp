@@ -59,3 +59,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to Relational Databases in SQL
 - Database Design
 - Big Data Fundamentals with PySpark
+- Cleaning Data with PySpark
