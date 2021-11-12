@@ -58,3 +58,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to AWS Boto in Python
 - Introduction to Relational Databases in SQL
 - Database Design
+- Big Data Fundamentals with PySpark
