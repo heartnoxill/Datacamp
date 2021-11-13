@@ -60,3 +60,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Database Design
 - Big Data Fundamentals with PySpark
 - Cleaning Data with PySpark
+- Introduction to Spark SQL in Python
