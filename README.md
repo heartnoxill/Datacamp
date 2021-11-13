@@ -61,3 +61,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Big Data Fundamentals with PySpark
 - Cleaning Data with PySpark
 - Introduction to Spark SQL in Python
+- Cleaning Data in SQL Server Databases
