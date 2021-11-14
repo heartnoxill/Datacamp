@@ -64,3 +64,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Cleaning Data in SQL Server Databases
 - Transactions and Error Handling in SQL Server
 - Building and Optimizing Triggers in SQL Server
+- Improving Query Performance in SQL Server
