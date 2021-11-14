@@ -63,3 +63,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Introduction to Spark SQL in Python
 - Cleaning Data in SQL Server Databases
 - Transactions and Error Handling in SQL Server
+- Building and Optimizing Triggers in SQL Server
