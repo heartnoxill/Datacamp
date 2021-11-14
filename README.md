@@ -62,3 +62,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Cleaning Data with PySpark
 - Introduction to Spark SQL in Python
 - Cleaning Data in SQL Server Databases
+- Transactions and Error Handling in SQL Server
