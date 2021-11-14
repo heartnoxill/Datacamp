@@ -3,7 +3,7 @@
 ❤💛💚💙🅰✅♻🔅💯
 Heart's Datacamp code and notes, completed
 
-## Machine Learning Scientist with Python Path
+## Machine Learning Scientist with Python Path ✅
 
 - Cluster Analysis in Python
 - Dimensionality Reduction in Python
@@ -29,7 +29,7 @@ Heart's Datacamp code and notes, completed
 - Machine Learning with PySpark
 - Winning a Kaggle Competition in Python
 
-## Data Scientist with Python Path
+## Data Scientist with Python Path ✅
 
 Some courses are skipped because I passed the assessment quizzes.
 
@@ -44,7 +44,7 @@ Some courses are skipped because I passed the assessment quizzes.
 - Statistical Thinking in Python (Part 2)
 - Case Study: School Budgeting with Machine Learning in Python
 
-## Data Engineering with Python Path
+## Data Engineering with Python Path ✅
 
 - Data Engineering for Everyone
 - Introduction to Scala
@@ -65,3 +65,4 @@ Some courses are skipped because I passed the assessment quizzes.
 - Transactions and Error Handling in SQL Server
 - Building and Optimizing Triggers in SQL Server
 - Improving Query Performance in SQL Server
+- Introduction to MongoDB in Python
